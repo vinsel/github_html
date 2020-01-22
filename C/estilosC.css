@@ -1,0 +1,43 @@
+body{
+  background-color: lightgrey;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+
+nav {
+  background-color: green;
+  list-style-type: none;
+  text-align: left;
+  margin: 0;
+  padding-right:0;
+}
+
+nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
+nav a:link{
+  text-decoration: none;
+  color: white;
+}
+
+nav a:hover{
+  text-decoration: none;
+  color: white
+}
+nav a:visited{
+  text-decoration: none;
+  color: white
+}
+
+nav a:active{
+  text-decoration: none;
+  color: white
+}
+.articles .asignaturas {
+  background-color: white;
+  padding-left: 15px;
+}

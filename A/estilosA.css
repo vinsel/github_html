@@ -1,0 +1,52 @@
+body{
+    background-color: lightgray;
+}
+
+nav a{
+    color: white;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: red;
+}
+
+nav li {
+    float: left;
+    margin: 10px;
+}
+
+article{
+    background-color: white;
+    width: 40em;
+    padding: 1em;
+    margin: 1em;
+    margin-left: 0px;
+}
+
+article p, article h2{
+    margin: 0px;
+}
+
+table, tr, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+table{
+    border: 2px solid black;
+}
+
+td{
+    padding: 15px;
+}
+
+.asignaturas{
+    background-color: antiquewhite;
+    list-style-type: none;
+}
+
+
+
